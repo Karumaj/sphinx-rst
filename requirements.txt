@@ -20,7 +20,7 @@ requests==2.26.0
 six==1.16.0
 snowballstemmer==2.1.0
 soupsieve==2.2.1
-Sphinx==4.1.2
+Sphinx>=7.0.0
 sphinx-autobuild==2021.3.14
 sphinx-inline-tabs
 sphinxcontrib-applehelp==1.0.2
