@@ -4,8 +4,8 @@ beautifulsoup4==4.9.3
 certifi==2021.5.30
 charset-normalizer==2.0.4
 colorama==0.4.4
-docutils==0.17.1
-furo==2021.8.17b43
+docutils>=0.19
+furo>=2023.9.10
 idna==3.2
 imagesize==1.2.0
 Jinja2==3.0.1
